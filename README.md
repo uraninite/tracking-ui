@@ -1,7 +1,5 @@
-# opencv-ui.f
-
 <p align="center">
-<img src="https://github.com/Xi-v/opencv-ui.f/blob/master/img/demo.jpg">
+<img src="https://raw.githubusercontent.com/Xi-v/opencv-ui.f/main/img/demo.jpg">
 </p>
 
 example input
