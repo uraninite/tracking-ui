@@ -25,7 +25,7 @@ int main()
 	int Golge_G = 0;
 	int Golge_B = 0;
 	depl:
-		cv::VideoCapture video(urll);
+	cv::VideoCapture video(urll);
 
 	cin >> selection;
 
